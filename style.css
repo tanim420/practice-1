@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+h5{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.orange-color{
+    color: #fc8946;
+}
+
+.gray{
+    color: #575757;
+}
+
+section{
+    display: flex;
+}
